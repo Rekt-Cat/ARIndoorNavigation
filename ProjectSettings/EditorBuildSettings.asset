@@ -8,6 +8,15 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/IndoorNavigation.unity
     guid: f88006bc963ef4049a942a46ef8e1f7f
+<<<<<<< Updated upstream
+=======
+  - enabled: 1
+    path: Assets/Scenes/Onboarding.unity
+    guid: cb409be8d17b8bf4bb1ed4f05136dd90
+  - enabled: 1
+    path: Assets/Scenes/IndoorNavigation1.unity
+    guid: 6902289b18d3a094b814f71b38353647
+>>>>>>> Stashed changes
   m_configObjects:
     UnityEditor.XR.ARCore.ARCoreSettings: {fileID: 11400000, guid: a4443e2a28d928f4ab37bcf093a887d7, type: 2}
     com.unity.xr.arfoundation.simulation_settings: {fileID: 11400000, guid: 5d9b8af6b4d8b484cb49d04c365cc8cb, type: 2}
