@@ -1,0 +1,228 @@
+{
+	"TargetList": [
+		{
+			"Name": "test",
+			"FloorNumber": 0,
+			"Position": {
+				"x": -0.1,
+				"y": 0.00,
+				"z": 0.9
+			},
+			"Rotation": {
+				"x": 0.0,
+				"y": 0.0,
+				"z": 0.0
+			}
+		},
+		{
+			"Name": "MainEntrance",
+			"FloorNumber": 0,
+			"Position": {
+				"x": 0,
+				"y": 0.00,
+				"z": 17.35
+			},
+			"Rotation": {
+				"x": 0.0,
+				"y": 0.0,
+				"z": 0.0
+			}
+		},
+		{
+			"Name": "teach1",
+			"FloorNumber": 0,
+			"Position": {
+				"x": 6.08,
+				"y": 0.00,
+				"z": 9.32
+			},
+			"Rotation": {
+				"x": 0.0,
+				"y": 0.0,
+				"z": 0.0
+			}
+		},
+		{
+			"Name": "teach2",
+			"FloorNumber": 0,
+			"Position": {
+				"x": 8.42,
+				"y": 0.00,
+				"z": 9.3
+			},
+			"Rotation": {
+				"x": 0.0,
+				"y": 0.0,
+				"z": 0.0
+			}
+		},
+		{
+			"Name": "teach3",
+			"FloorNumber": 0,
+			"Position": {
+				"x": 6.11,
+				"y": 0.00,
+				"z": 8.1
+			},
+			"Rotation": {
+				"x": 0.0,
+				"y": 0.0,
+				"z": 0.0
+			}
+		},
+		{
+			"Name": "teach4",
+			"FloorNumber": 0,
+			"Position": {
+				"x": 8.45,
+				"y": 0.00,
+				"z": 8.08
+			},
+			"Rotation": {
+				"x": 0.0,
+				"y": 0.0,
+				"z": 0.0
+			}
+		},
+		{
+			"Name": "teach5",
+			"FloorNumber": 0,
+			"Position": {
+				"x": 6.11,
+				"y": 0.00,
+				"z": 6.04
+			},
+			"Rotation": {
+				"x": 0.0,
+				"y": 0.0,
+				"z": 0.0
+			}
+		},
+		{
+			"Name": "teach6",
+			"FloorNumber": 0,
+			"Position": {
+				"x":8.4,
+				"y": 0.00,
+				"z": 6.02
+			},
+			"Rotation": {
+				"x": 0.0,
+				"y": 0.0,
+				"z": 0.0
+			}
+		},
+		{
+			"Name": "teach7",
+			"FloorNumber": 0,
+			"Position": {
+				"x": 6.07,
+				"y": 0.00,
+				"z": 4.78
+			},
+			"Rotation": {
+				"x": 0.0,
+				"y": 0.0,
+				"z": 0.0
+			}
+		},
+		{
+			"Name": "teach8",
+			"FloorNumber": 0,
+			"Position": {
+				"x": 8.51,
+				"y": 0.00,
+				"z": 4.78
+			},
+			"Rotation": {
+				"x": 0.0,
+				"y": 0.0,
+				"z": 0.0
+			}
+		},
+		{
+			"Name": "teach9",
+			"FloorNumber": 0,
+			"Position": {
+				"x": 6.05,
+				"y": 0.00,
+				"z": 2.79
+			},
+			"Rotation": {
+				"x": 0.0,
+				"y": 0.0,
+				"z": 0.0
+			}
+		},
+		{
+			"Name": "teach10",
+			"FloorNumber": 0,
+			"Position": {
+				"x": 8.43,
+				"y": 0.00,
+				"z": 2.76
+			},
+			"Rotation": {
+				"x": 0.0,
+				"y": 0.0,
+				"z": 0.0
+			}
+		},
+		{
+			"Name": "teach11",
+			"FloorNumber": 0,
+			"Position": {
+				"x": 6.1,
+				"y": 0.00,
+				"z": 1.57
+			},
+			"Rotation": {
+				"x": 0.0,
+				"y": 0.0,
+				"z": 0.0
+			}
+		},
+		{
+			"Name": "teach12",
+			"FloorNumber": 0,
+			"Position": {
+				"x": 8.42,
+				"y": 0.00,
+				"z": 1.61
+			},
+			"Rotation": {
+				"x": 0.0,
+				"y": 0.0,
+				"z": 0.0
+			}
+		},
+		{
+			"Name": "teach13",
+			"FloorNumber": 0,
+			"Position": {
+				"x": 6.01,
+				"y": 0.00,
+				"z": -0.59
+			},
+			"Rotation": {
+				"x": 0.0,
+				"y": 0.0,
+				"z": 0.0
+			}
+		},
+		{
+			"Name": "teach14",
+			"FloorNumber": 0,
+			"Position": {
+				"x": 8.47,
+				"y": 0.00,
+				"z": -0.62
+			},
+			"Rotation": {
+				"x": 0.0,
+				"y": 0.0,
+				"z": 0.0
+			}
+		}
+	]
+}

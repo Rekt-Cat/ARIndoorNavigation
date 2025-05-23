@@ -36,6 +36,7 @@ public class TargetHandler : MonoBehaviour {
     }
 
     private TargetFacade CreateTargetFacade(Target target) {
+        Debug.Log($"Parent Rotation: {targetObjectsParentTransforms[target.FloorNumber].rotation.eulerAngles}");
         GameObject targetObject = Instantiate(targetObjectPrefab, targetObjectsParentTransforms[target.FloorNumber], false);
         targetObject.SetActive(true);
         targetObject.name = $"{target.FloorNumber} - {target.Name}";
